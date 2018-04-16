@@ -1,0 +1,3 @@
+[submodule "AndroidP7zip"]
+	path = AndroidP7zip
+	url = https://github.com/hzy3774/AndroidP7zip
